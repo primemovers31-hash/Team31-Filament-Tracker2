@@ -1,0 +1,6 @@
+Initial release of BSM — Bambu Spool Manager.
+
+- Scan Bambu Lab filament spool NFC tags to instantly identify material, color, weight, and temperatures
+- Manage your filament inventory with IN_STOCK, IN_USE, and USED_UP tracking
+- Cloud sync via Firebase so your inventory is available everywhere
+- Print labels for your spools via Fichero D11s thermal printer (web app)
